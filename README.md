@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogeshwaran</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Web development projects using backend Java, MySQL, Grails, and frontend React**
+- 🔭 I’m currently working on **Web development projects using backend Java, MySQL, Grails, and frontend React, Javascript**
 
 - 💬 Ask me about **Java, MySQL, Grails, React, Javascript**
 
