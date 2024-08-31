@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogeshwaran</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshwaran-h&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshwaran-h" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwaran-h" alt="yogeshwaran-h" /></a> </p>
+<p align="left"> <a href="https://github.com/yogeshwaran-h/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwaran-h" alt="yogeshwaran-h" /></a> </p>
 
 - 🔭 I’m currently working on **Web development projects using backend Java, MySQL, Grails, and frontend React**
 
