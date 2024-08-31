@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yogeshwaran</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/yogeshwaran-h/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwaran-h" alt="yogeshwaran-h" /></a> </p>
-
 - 🔭 I’m currently working on **Web development projects using backend Java, MySQL, Grails, and frontend React**
+
+- 💬 Ask me about **Java, MySQL, Grails, React, Javascript**
 
 - 📫 How to reach me **yogeshwaransasi03@gmail.com**
 
